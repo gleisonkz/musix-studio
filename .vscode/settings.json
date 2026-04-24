@@ -1,4 +1,5 @@
 {
   "scss.lint.unknownAtRules": "ignore",
-  "cSpell.words": ["musix", "Tétrade", "Zard"]
+  "cSpell.words": ["musix", "Tétrade", "Zard"],
+  "snyk.advanced.autoSelectOrganization": true
 }
