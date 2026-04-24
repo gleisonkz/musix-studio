@@ -24,7 +24,18 @@ export const LOUVE_ROSTER_MAP: LouveRosterMap = {
   ],
   contralto: [
     { output: '🎤 - @_rebecada', aliases: ['rebeca rodrigues', 'rebeca'] },
-    { output: '🎤 - @eumelisilva', aliases: ['melissa silva', 'melissa', 'meli silva'] },
+    {
+      output: '🎤 - @eumelisilva',
+      aliases: [
+        'melissa silva',
+        'melissa',
+        'meli silva',
+        'melina',
+        'melina silva',
+        'melina rodrigues',
+        'melina rodri',
+      ],
+    },
     { output: '🎤 - @visthef', aliases: ['vidriele stefani', 'sthef', 'vi sthef', 'vidriele'] },
     { output: '🎤 - @sophstephani', aliases: ['sophia stephani', 'sophia', 'sophstephani'] },
     { output: '🎤 - @belasbatista', aliases: ['bela', 'bela batista', '@belasbatista'] },
